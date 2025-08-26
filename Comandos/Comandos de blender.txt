@@ -1,0 +1,32 @@
+Comandos para moverse en Blender.
+1. Ctrl + clic de en medio del mouse es Zoom.
+2. Shift + clic de en medio del mouse es Paneo.
+3. Clic izquierdo del mouse seleccionas el objeto. 
+4. Alt + clic de en medio del mouse se mueve las coordenadas x,y,z para vista. 
+5. Ctrl + ,(coma) abre preferences.
+6. El 0 abre la perspectiva de la cámara.
+7. Con 1 y después Z vemos el diferente modo de ver al objeto.
+
+En modo ortográfico no hay percepción del fondo, en modo perspectiva imita al ojo humano
+
+Maneras de hacer transformaciones de un objeto
+Translación
+Con la tecla G seleccionando el objeto Si apretamos G + X entonces se mueve sobre el eje X, si no queremos el transformación aplicamos clic derecho. Esto aplica también para G + Y y para G + Z.
+Si deseamos moverla en unidades exactas entonces es G + eje + numero(serán las unidades) Ej G + X + 5.5
+
+Rotación 
+SE repite lo anterior que translación pero ahora con R + eje + (opcional numero) 
+
+Escalar 
+Se repite lo anterior con S + eje 
+
+8. Con tabulador cambias entre modo objeto y edición.
+
+9. Con shift + A agregamos objetos en modo objeto, en modo edición entonces se pega al objeto en edición
+
+10. Con tecla E haces exclusive es decir copias de caras que puedes ir moviendo.
+
+11. Para rellenar un hueco seleccionas los vértices del hueco y aprietas f
+12. Clic derecho disolve egdes
+13. Para unir dos objetos es shift los dos objetos y j, para separar p 
+14. La tecla m es para mezclar
