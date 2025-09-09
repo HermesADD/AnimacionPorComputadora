@@ -30,3 +30,17 @@ Se repite lo anterior con S + eje
 12. Clic derecho disolve egdes
 13. Para unir dos objetos es shift los dos objetos y j, para separar p 
 14. La tecla m es para mezclar
+15. El ctrl + r es para hacer cortes
+16. Tecla A seleccionas todo lo que esta en la escena, con tecla alt + a deseleccionas todo.
+17. En modo alambrado si hacemos selección de caja entonces selecciona a todo el objeto dentro de la caja, si solo hace caja con cara entonces solo selecciona el frente  
+18. Con edit mode el punto centro pivote del objeto no se va a mover, por lo tanto es mejor hacerlo en object mode para que las transformaciones se hagan conforme a ese pivote en el centro.
+19. El centro origen es el origen de toda la escena en blender, parece un salvavidas.
+20. En modo edit mode seleccionando un vertice en mesh snap esta la opción de mandar el cursor en el curso seleccionado.
+21. Después en object mode con object mas set origin mandamos el cursor al nuevo origen(salvavidas).
+22. En edit mode con click derecho y lo seleccionado haces una subdivisión.
+23. Seleccionamos todas las caras haciendo exclusión para alzarlas.
+24. En las dos rueditas ponemos individual origins. Solo se utilizan esas dos, punto mediano y orígenes individuales.
+
+
+
+
